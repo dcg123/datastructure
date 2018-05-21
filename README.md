@@ -9,7 +9,7 @@
 
 
 
-## 课程源码目录 
+## 源码目录 
 | **第一章 数组** | [章节Java源码](Arrays/) | 
 | :--- | :---: | 
 | 1-1 使用Java中的数组 | [Java](Arrays/ArrayBasics) |
@@ -24,8 +24,13 @@
 | 2-2 栈的另一个应用：括号匹配 | [Java](Stacks-and-Queues/AStackProblemInLeetcode) |
 | 2-3 数组队列 | [Java](Stacks-and-Queues/ArrayQueue) |
 | 2-4 循环队列 | [Java](Stacks-and-Queues/LoopQueue) |
-| **第三章 最基础的动态数据结构：链表** | [更新中，敬请期待]) |
-| **第四章 透过链表看递归** | [更新中，敬请期待]) |
+| **第三章 最基础的动态数据结构：链表** | [章节Java源码](Linked-List) |
+| 3-1 链表的基本实现 | [Java](Linked-List/Linked) |
+| 3-2 使用链表实现栈 | [Java](Linked-List/ImplementStackinkedList) |
+| 3-3 带有尾指针的链表：使用链表实现队列 | [Java](Linked-List/ImplementQueueLinkedList) |
+| **第四章 透过链表看递归** | [章节Java源码](Recursion) |
+|4-1  Leetcode中和链表相关的问题 | [Java](Recursion/LinkedListProblemsLeetcode) |
+| 4-2  斯坦福大学单链表的18个问题 | [Java](Recursion/StanfordLinkedListProblems) |
 | **第五章 二分搜索树** | [更新中，敬请期待]) |
 | **第六章 集合和映射** | [更新中，敬请期待]) |
 | **第七章 堆和优先队列** | [更新中，敬请期待]) |
