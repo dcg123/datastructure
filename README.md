@@ -31,7 +31,17 @@
 | **第四章 透过链表看递归** | [章节Java源码](Recursion) |
 |4-1  Leetcode中和链表相关的问题 | [Java](Recursion/LinkedListProblemsLeetcode) |
 | 4-2  斯坦福大学单链表的18个问题 | [Java](Recursion/StanfordLinkedListProblems) |
-| **第五章 二分搜索树** | [更新中，敬请期待]) |
+| **第五章 二分搜索树** | [章节Java源码](BinarySearchTree) |
+|5-1  二分搜索树基础 | [Java](BinarySearchTree/BST) |
+|5-2  二分搜索树的查询操作 | [Java](BinarySearchTree/SearchInBST) |
+|5-3   二分搜索树的前序遍历 | [Java](BinarySearchTree/PreOrderTraverseInBST) |
+|5-4   二分搜索树的中序遍历和后序遍历 | [Java](BinarySearchTree/InOrderAndPostOrderTraverseBST) |
+|5-5  二分搜索树前序遍历的非递归实现 | [Java](BinarySearchTree/NonRecursionPreorderTraverseBST) |
+|5-6  二分搜索树的层序遍历 | [Java](BinarySearchTree/LevelTraverseBST) |
+|5-5  删除二分搜索树的最大元素和最小元素 | [Java](BinarySearchTree/RemoveMinAndMaxBST) |
+|5-7   删除二分搜索树的任意元素 | [Java](BinarySearchTree/RemoveElementsBST) |
+|5-8  斯坦福大学Binary Tree相关问题 | [Java](BinarySearchTree/StandfordBinaryTree) |
+|5-9   斯坦福大学Tree List相关问题 | [Java](BinarySearchTree/StandfordTreeList) |
 | **第六章 集合和映射** | [更新中，敬请期待]) |
 | **第七章 堆和优先队列** | [更新中，敬请期待]) |
 | **第八章 线段树** |[更新中，敬请期待]) |
