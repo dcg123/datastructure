@@ -42,8 +42,12 @@
 |5-7   删除二分搜索树的任意元素 | [Java](BinarySearchTree/RemoveElementsBST) |
 |5-8  斯坦福大学Binary Tree相关问题 | [Java](BinarySearchTree/StandfordBinaryTree) |
 |5-9   斯坦福大学Tree List相关问题 | [Java](BinarySearchTree/StandfordTreeList) |
-| **第六章 集合和映射** | [更新中，敬请期待]) |
-| **第七章 堆和优先队列** | [更新中，敬请期待]) |
+| **第六章 栈，队列，优先队列** | [章节Java源码](StackAndQueue)|
+|5-1   栈的基础应用 | [Java](StackAndQueue/ValidParentheses) |
+|5-2  栈和递归的紧密联系  | [Java](StackAndQueue/RecursionAndStack) |
+|5-3   运用栈模拟递归 | [Java](StackAndQueue/NonRecursive) |
+|5-4   队列的典型应用 Binary Tree Level Order Traversal | [Java](StackAndQueue/BinaryTreeLevelOrderTraversal) |
+| **第七章 集合和映射** | [更新中，敬请期待]) |
 | **第八章 线段树** |[更新中，敬请期待]) |
 | **第九章 Trie** | [更新中，敬请期待]) |
 | **第十章 并查集** | [更新中，敬请期待]) |
